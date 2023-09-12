@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'kedsouza-php-drupal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_11AE97251B3C4C6CB6830532194CB138 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_03BD06E068AB455593321CD97F2ED265 }}
           package: .
